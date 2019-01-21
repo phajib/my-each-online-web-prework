@@ -3,5 +3,6 @@ def my_each(array)
 
   while i < array.length
     puts "#{word}"
+    i+=1
   end
 end
